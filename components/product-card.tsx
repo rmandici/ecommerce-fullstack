@@ -39,7 +39,7 @@ export const ProductCard = ({ product }: Props) => {
                 </p>
               )}
 
-              <Button className="mt-4 bg-black text-white">
+              <Button className="mt-4 bg-black text-white cursor-pointer">
                 {" "}
                 View Details{" "}
               </Button>
